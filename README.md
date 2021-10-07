@@ -4,4 +4,4 @@ Fixed first issue.
 
 Added another line as mentioned by the reviewer.
 
-Test pull request compare.
+Testing GitHub pull request.
